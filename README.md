@@ -10,4 +10,6 @@ La importancia de los espacios políticos subnacionales paulatinamente han ganad
 
 El artículo esta en elaboración la base de datos se puede acceder desde este link : https://drive.google.com/file/d/0B0JAWY3mnsUReENTMXN0UnRFUkk/view?usp=sharing  
 
+Si vas a utilizar la base de datos, puedes citarla así:
+
 Aragon, Jorge y Incio, Jose, “Indicadores de los sistemas  políticos subnacionales en el Perú 2002-2014: continuidades, rupturas y tipologías”, (2016), GitHub repository, http://jincio.github.io/ISP-2002-2014/
