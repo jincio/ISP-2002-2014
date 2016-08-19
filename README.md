@@ -1,8 +1,8 @@
 # ISP-2002-2014
 Indicadores de los sistemas  políticos subnacionales en el Perú 2002-2014: continuidades, rupturas y tipos. 
 
-Jorge Aragon (Pontificia Universidad Católica del Perú) 
-Jose Incio (University of Pittsburgh)
+* Jorge Aragon (Pontificia Universidad Católica del Perú)
+* Jose Incio (University of Pittsburgh)
 
 Abstract: 
 
